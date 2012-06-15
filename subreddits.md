@@ -27,6 +27,8 @@
 * [r/programacion](http://reddit.com/r/programacion): Subreddit de programación
 * [r/djangoes](http://reddit.com/r/djangoes): Subreddit del framework para Python Django
 * [r/role](http://reddit.com/r/role): Rol en español, sin moderador
+* [r/videojuego](http://reddit.com/r/videojuego): Gaming en español
+
 
 *Subreddits de utilidad*
 
