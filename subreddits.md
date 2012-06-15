@@ -26,9 +26,10 @@
 * [r/redditores](http://reddit.com/r/redditores): Subreddit común a las comunidades hispanohablantes
 * [r/programacion](http://reddit.com/r/programacion): Subreddit de programación, lamentablemente sin moderador
 * [r/djangoes](http://reddit.com/r/djangoes): Subreddit del framework para Python Django
-* [r/role](http://reddit.com/r/role): Rol en español
+* [r/role](http://reddit.com/r/role): Rol en español, sin moderador
 
 *Subreddits de utilidad*
+
 * [/r/englishlearning](http://www.reddit.com/r/englishlearning): Subreddit para el aprendizaje del idioma inglés
 * [/r/practicar](http://www.reddit.com/r/practicar): Subreddit para el aprendizaje del idioma español
 
