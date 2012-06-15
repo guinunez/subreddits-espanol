@@ -24,7 +24,7 @@
 * [r/futbol](http://www.reddit.com/r/futbol): Subreddit de Fútbol
 * [r/espanol](http://reddit.com/r/espanol): Primer subreddit en español, el moderador lo creó y no volvió nunca más, razón por la cual creamos [r/redditores](http://reddit.com/r/redditores)
 * [r/redditores](http://reddit.com/r/redditores): Subreddit común a las comunidades hispanohablantes
-* [r/programacion](http://reddit.com/r/programacion): Subreddit de programación, lamentablemente sin moderador
+* [r/programacion](http://reddit.com/r/programacion): Subreddit de programación
 * [r/djangoes](http://reddit.com/r/djangoes): Subreddit del framework para Python Django
 * [r/role](http://reddit.com/r/role): Rol en español, sin moderador
 
