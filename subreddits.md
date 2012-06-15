@@ -36,4 +36,4 @@
 * [/r/practicar](http://www.reddit.com/r/practicar): Subreddit para el aprendizaje del idioma español
 
 
-**[Todos los subreddits en español](http://reddit.com/r/redditores+espanol+programacion+peru+mexico+latinoamerica+es+colombia+chile+argentina+uruguay+ecuador+bolivia+paraguay+venezuela+Guatemala+elsalvador+Cinefilos+futbol+role+djangoes+practicar)**
+**[Todos los subreddits en español](http://reddit.com/r/redditores+espanol+programacion+peru+mexico+latinoamerica+es+colombia+chile+argentina+uruguay+ecuador+bolivia+paraguay+venezuela+Guatemala+elsalvador+Cinefilos+futbol+role+djangoes+practicar+videojuego)**
