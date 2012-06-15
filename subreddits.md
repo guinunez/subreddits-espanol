@@ -22,8 +22,15 @@
 
 * [r/Cinefilos](http://www.reddit.com/r/Cinefilos): Subreddit de discusión de cine Latino/Español
 * [r/futbol](http://www.reddit.com/r/futbol): Subreddit de Fútbol
-* [r/programacion](http://reddit.com/r/programacion): Subreddit de programación, lamentablemente sin moderador
 * [r/espanol](http://reddit.com/r/espanol): Primer subreddit en español, el moderador lo creó y no volvió nunca más, razón por la cual creamos [r/redditores](http://reddit.com/r/redditores)
 * [r/redditores](http://reddit.com/r/redditores): Subreddit común a las comunidades hispanohablantes
+* [r/programacion](http://reddit.com/r/programacion): Subreddit de programación, lamentablemente sin moderador
+* [r/djangoes](http://reddit.com/r/djangoes): Subreddit del framework para Python Django
+* [r/role](http://reddit.com/r/role): Rol en español
+
+*Subreddits de utilidad*
+* [/r/englishlearning](http://www.reddit.com/r/englishlearning): Subreddit para el aprendizaje del idioma inglés
+* [/r/practicar](http://www.reddit.com/r/practicar): Subreddit para el aprendizaje del idioma español
+
 
 **[Todos los subreddits en español](http://reddit.com/r/redditores+espanol+programacion+peru+mexico+latinoamerica+es+colombia+chile+argentina+uruguay+ecuador+bolivia+paraguay+venezuela+Guatemala+elsalvador+Cinefilos+futbol)**
